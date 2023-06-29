@@ -3,6 +3,7 @@
 .holder{
 	display:flex;
 	padding:120px;
+	flex-wrap:wrap;
 	
 }
 .p{
